@@ -2,6 +2,8 @@
 title: "Cristina Buarque de Hollanda"
 image: "cristina-nyuad-smaller.jpg"
 links:
+  - label: CV
+    url: "https://www.cristinabuarque.net/files/2021-10-CV-CristinaBHollanda.pdf"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?hl=en&user=HcgW1NIAAAAJ"
   - label: ResearchGate
