@@ -1,6 +1,13 @@
 project:
   type: website
-  resources: 
+  resources:
+    - fonts/*
     - 2021-10-CV-CristinaBHollanda.pdf
     - CristinaBuarque-CV_Jan2024.pdf
   output-dir: _site
+
+format:
+  html:
+    theme: cosmo
+    css: fonts.css
+    mainfont: 'Literata VF'
