@@ -1,3 +1,6 @@
 project:
   type: website
+  resources: 
+    - 2021-10-CV-CristinaBHollanda.pdf
+    - CristinaBuarque-CV_Jan2024.pdf
   output-dir: _site

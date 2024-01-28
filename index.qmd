@@ -5,7 +5,7 @@ about:
   template: solana
   links:
     - text: CV
-      url: ./files/2021-10-CV-CristinaBHollanda.pdf
+      url: './files/CristinaBuarque-CV_Jan2024.pdf'
     - text: Google Scholar
       url: https://scholar.google.com/citations?hl=en&user=HcgW1NIAAAAJ
     - text: ResearchGate
@@ -57,11 +57,11 @@ Hollanda, Cristina B. 2005. [Polícia e Direitos Humanos: Política de Seguran
 
 Biroli, Flávia, Luciana Tatagiba, Carla Almeida, Cristina B. de Hollanda, and Vanessa de Oliveira, eds. 2020. [Mulheres, Poder e Ciência Política](https://www.editoraunicamp.com.br/Categoria/mulheres-poder-e-ciencia-politica-debates-e-trajetorias-518/p) [Women, Power and Political Science]. Campinas: University of Campinas Press.
 
-Stampa, Inez, San R. Assumpção, and Cristina B. de Hollanda, eds. 2020. [Arquivos, Democracia e Ditadura: Reflexões a Partir dos 10 Anos do Centro de Referência Memórias Reveladas do Arquivo Nacional](https://www.editoraappris.com.br/produto/4523-arquivos-democracia-e-ditadura-reflexes-a-partir-dos-10-anos-do-centro-de-referncia-memrias-reveladas-do-arquivo-nacional) [Archives, democracy and dictatorship: reflexions from the Reference Center Revealed Memories of the National Archive’s]. Curitiba: Appris.
+Stampa, Inez, San R. Assumpção, and Cristina B. de Hollanda, eds. 2020. [Arquivos, Democracia e Ditadura: Reflexões a Partir dos 10 Anos do Centro de Referência Memórias Reveladas do Arquivo Nacional](./files/ArquivosDemocraciaDitadura_CentroDeReferencia_Memorias_Reveladas_ArquivoNacional.pdf) [Archives, democracy and dictatorship: reflexions from the Reference Center Revealed Memories of the National Archive’s]. Curitiba: Appris.
 
-Aguiar, Thaís, Cristina B. de Hollanda, and Pedro H. V. B. Castelo Branco, eds. 2019. [Cesar Guimarães: uma Antologia de Textos Políticos](https://www.editoraappris.com.br/produto/3208-cesar-guimares-uma-antologia-de-textos-polticos) [Cesar Guimarães: an anthology of political texts]. Curitiba: Appris.
+Aguiar, Thaís, Cristina B. de Hollanda, and Pedro H. V. B. Castelo Branco, eds. 2019. [Cesar Guimarães: uma Antologia de Textos Políticos](./files/Antologia_CesarGuimaraes.pdfs) [Cesar Guimarães: an anthology of political texts]. Curitiba: Appris.
 
-Hollanda, Cristina B., Luciana F. Veiga, and Oswaldo E. do Amaral, eds. 2018.[A Constituição de 1988: Trinta Anos Depois](https://www.editora.ufpr.br/produto/329/constituicao-de-88--trinta-anos-depois) [The 1988 Constitution: Thirty years later]. Rio de Janeiro: Federal University of Paraná Press and Konrad Adenauer Foundation.
+Hollanda, Cristina B., Luciana F. Veiga, and Oswaldo E. do Amaral, eds. 2018.[A Constituição de 1988: Trinta Anos Depois](./files/Constituicaode1988_30AnosDepois.pdf) [The 1988 Constitution: Thirty years later]. Rio de Janeiro: Federal University of Paraná Press and Konrad Adenauer Foundation.
 
 Hollanda, Cristina B. 2011. [Joaquim Francisco de Assis Brasil: Uma Antologia Política](https://www.amazon.com.br/Joaquim-Francisco-Brasil-Antologia-Pol%C3%ADtica/dp/8575778889) [Joaquim Francisco de Assis Brasil: A political anthology]. Rio de Janeiro: Editora 7Letras.
 
@@ -69,17 +69,19 @@ Lessa, Renato, and Cristina B. de Hollanda, eds. 2009. [San Tiago Dantas: Colet�
 
 ## Selected Articles
 
-Hollanda, Cristina B., and Hun Joon Kim. in press. “[Commissionism](./files/BuarqueDeHollanda_C_Kim_HJ_2023_TJE_Commissionism.pdf)”. In Encyclopedia of Transitional Justice, eds. Lavinia Stan and Nadya Nedelsky. 2nd Edition. Cambridge University Press.
+Hollanda, Cristina B., Costa da Silva, Danielle, Braga, Pablo S., Milani, Carlos R. S. 2023. [From human rights to “righteous humans”: Brazilian foreign policy in the Bolsonaro era](./files/Hollanda2023_JournalOfHumanRights.pdf). Journal of Human Rights, [doi: 10.1080/14754835.2023.2276420](https://doi.org/10.1080/14754835.2023.2276420)
 
-Hollanda, Cristina B., and San R. Assumpção. in press. “Brazilian National Truth Commission”. In Encyclopedia of Transitional Justice, eds. Lavinia Stan and Nadya Nedelsky. 2nd Edition. Cambridge University Press.
+Hollanda, Cristina B., and Hun Joon Kim. 2023. “[Commissionism](./files/BuarqueDeHollanda_C_Kim_HJ_2023_TJE_Commissionism.pdf)”. In Encyclopedia of Transitional Justice, eds. Lavinia Stan and Nadya Nedelsky. 2nd Edition. Cambridge University Press.
 
-Hollanda, Cristina B. in press. “Truth Commission of the State of Rio de Janeiro”. In Encyclopedia of Transitional Justice, eds. Lavinia Stan and Nadya Nedelsky. 2nd Edition. Cambridge University Press.
+Hollanda, Cristina B., and San R. Assumpção. 2023. “Brazilian National Truth Commission”. In Encyclopedia of Transitional Justice, eds. Lavinia Stan and Nadya Nedelsky. 2nd Edition. Cambridge University Press.
 
-Hollanda, Cristina B. in press. “Rubens Paiva Truth Commission of the State of São Paulo”. In Encyclopedia of Transitional Justice, eds. Lavinia Stan and Nadya Nedelsky. 2nd Edition. Cambridge University Press.
+Hollanda, Cristina B. 2023. “Truth Commission of the State of Rio de Janeiro”. In Encyclopedia of Transitional Justice, eds. Lavinia Stan and Nadya Nedelsky. 2nd Edition. Cambridge University Press.
 
-Hollanda, Cristina B. in press. “Dom Helder Câmara Memory and Truth Commission of the State of Pernambuco”. In Encyclopedia of Transitional Justice, eds. Lavinia Stan and Nadya Nedelsky. 2nd Edition. Cambridge University Press.
+Hollanda, Cristina B. 2023. “Rubens Paiva Truth Commission of the State of São Paulo”. In Encyclopedia of Transitional Justice, eds. Lavinia Stan and Nadya Nedelsky. 2nd Edition. Cambridge University Press.
 
-Hollanda, Cristina B. in press. “East Timor”. In Encyclopedia of Transitional Justice, eds. Lavinia Stan and Nadya Nedelsky. 2nd Edition. Cambridge University Press.
+Hollanda, Cristina B. 2023. “Dom Helder Câmara Memory and Truth Commission of the State of Pernambuco”. In Encyclopedia of Transitional Justice, eds. Lavinia Stan and Nadya Nedelsky. 2nd Edition. Cambridge University Press.
+
+Hollanda, Cristina B. 2023. “East Timor”. In Encyclopedia of Transitional Justice, eds. Lavinia Stan and Nadya Nedelsky. 2nd Edition. Cambridge University Press.
 
 Hollanda, Cristina B. 2022. [“De la (ré)conciliation: trajectoire d’un imaginaire politique dans le Brésil contemporain (1974-2020)”.](http://journals.openedition.org/bresils/12470) [On (re)conciliation: trajectory of a contemporary political imaginary in contemporary Brazil (1974-2020)]. Brésil(s) 21. doi: 10.4000/bresils.12470
 
@@ -87,7 +89,7 @@ Hollanda, Cristina B. 2020. “Comisiones de la Verdad en Brasil. Una nueva moda
 
 Hollanda, Cristina B., Vinícius Israel. 2020. [ “Panorama das Comissões da Verdade no Brasil: uma Reflexão Sobre Novos Sentidos de Legitimidade e Representação Democrática”](https://www.scielo.br/j/rsocp/a/zJsRMGTHCLyvTghpc7VcL8k/?lang=pt) [Panorama of Truth Commissions in Brazil: a reflection on new senses of legitimacy and democratic representation]. Revista de Sociologia e Política, 27: 1-21. doi: 10.1590/1678-987319277006
 
-Hollanda, Cristina B. 2019. [“Brazilian Truth Commissions as Experiments of Representation: Between Impartiality and Proximity”](https://www.tandfonline.com/doi/abs/10.1080/00344893.2018.1424029). Representation 55 (3): 323-37. doi: 10.1080/00344893.2018.1424029
+Hollanda, Cristina B. 2019. [“Brazilian Truth Commissions as Experiments of Representation: Between Impartiality and Proximity”](./files/Hollanda_2018_Representation.pdf). Representation 55 (3): 323-37. doi: [10.1080/00344893.2018.1424029](https://doi.org/10.1080/00344893.2018.1424029)
 
 Hollanda, Cristina B. 2018. [“Direitos Humanos e Democracia: a Experiência das Comissões Nacional e Estaduais da Verdade no Brasil”](https://www.scielo.br/j/rbcsoc/a/8PRcJPCwcY9VRRXbxMSkTzy/?format=pdf&lang=pt) [Human rights and democracy: The experience of the National and State-level Truth Commissions in Brazil]. Revista Brasileira de Ciências Sociais 33 (96): 1-18. doi: 10.17666/339610/2018
 
